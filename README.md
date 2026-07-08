@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m  Abdalmohimn AL Gonsul Software Engineer , interested in programming, software development, networking, and modern technologies. I enjoy learning how systems work, exploring new concepts, and improving my skills across different areas of technology. <br><br>👋 Gamer & Tech Lover <br>💻 Exploring technology  <br>🎮 Playing games  <br>🚀 Learning something new every day <br>🔭 Goal -> CyC & Full-Stack<br><br>🔥 Welcome To My World!
+I’m  Abdalmohimn AL Gonsul Software Engineer , interested in programming, software development, networking, and modern technologies. I enjoy learning how systems work, exploring new concepts, and improving my skills across different areas of technology. <br><br>👋 Gamer & Tech Lover <br>💻 Exploring technology  <br>🎮 Playing games  <br>🚀 Learning something new every day <br>🔭 Goal ➽ CyC & Full-Stack<br><br>🔥 Welcome To My World!
 
 
 ## 🌐 Socials:
