@@ -31,6 +31,6 @@ I’m  Abdalmohimn AL Gonsul Software Engineer , interested in programming, soft
 ![](https://github-contributor-stats.vercel.app/api?username=MrGonsul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=MrGonsul&icon=8&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
