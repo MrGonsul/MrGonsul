@@ -2,6 +2,8 @@
 I’m  Abdalmohimn AL Gonsul Software Engineer , interested in programming, software development, networking, and modern technologies. I enjoy learning how systems work, exploring new concepts, and improving my skills across different areas of technology. 
 <br><br>👋 Gamer & Tech Lover <br>💻 Exploring technology  <br>🎮 Playing games  <br>🚀 Learning something new every day <br>🔭 Goal ➽ CyC & Full-Stack<br><br>
 
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-0033FF.svg)](https://github.com/readme-SVG/animated-line)
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9BA2F7&width=435&lines=Welcome+To+My+World+!;Feel+Free+To+Watch+My+Profile;%F0%9F%A6%A6+z+Z+z+%F0%9F%92%A4;%F0%9F%A6%A6+z+Z+z+%F0%9F%92%A4;%F0%9F%A6%A6+z+Z+z+%F0%9F%92%A4" alt="Typing SVG" /></a>
 </p>
@@ -10,7 +12,6 @@ I’m  Abdalmohimn AL Gonsul Software Engineer , interested in programming, soft
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MrGonsul" alt="Visitors">
 </p>
 
-[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-0033FF.svg)](https://github.com/readme-SVG/animated-line)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7s_the_storm)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/algonsul/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mr_Gonsul) 
