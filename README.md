@@ -93,20 +93,21 @@ I’m Abdalmohimn AL Gonsul Software Engineer, interested in programming, softwa
 
 <h2 align="center">📊 GitHub Stats </h2>
 
+<!-- Row 3 - Center -->
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrGonsul&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrGonsul&hide=Html&theme=midnight_purple" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrGonsul&theme=midnight_purple" width="32%" />
-</p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrGonsul&theme=midnight_purple" />
-  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrGonsul&theme=midnight_purple" width="80%" />
 </p>
 
- 
 
 
-
+<!-- Row 2 -->
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MrGonsul&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" height="180" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrGonsul&mode=daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE" width="40%" height="180" />
+</p>
+<!-- Row 1 -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MrGonsul&theme=blue_navy&hide_border=false" width="50%" />
+</p>
 
 
 <h2 align="center">🏆 GitHub Trophies </h2>
