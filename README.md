@@ -4,11 +4,15 @@ I’m  Abdalmohimn AL Gonsul Software Engineer , interested in programming, soft
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9BA2F7&width=435&lines=Welcome+To+My+World+!;Feel+Free+To+Watch+My+Profile;%F0%9F%A6%A6+z+Z+z+%F0%9F%92%A4;%F0%9F%A6%A6+z+Z+z+%F0%9F%92%A4;%F0%9F%A6%A6+z+Z+z+%F0%9F%92%A4" alt="Typing SVG" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=9BA2F7&amp;width=435&amp;lines=Welcome+To+My+World+!;Feel+Free+To+Watch+My+Profile;%F0%9F%A6%A6+z+Z+z+%F0%9F%92%A4" alt="Typing SVG">
+  </a>
 </p>
 
-
-[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-0033FF.svg)](https://github.com/readme-SVG/animated-line)
+<p align="center">
+  <img src="https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-0033FF.svg" alt="animated-line">
+</p>
 
 
 <p align="center">
