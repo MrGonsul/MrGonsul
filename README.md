@@ -15,7 +15,6 @@ I’m  Abdalmohimn AL Gonsul Software Engineer , interested in programming, soft
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MrGonsul" alt="Visitors">
 </p>
 
-[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-0033FF.svg)](https://github.com/readme-SVG/animated-line)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7s_the_storm)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/algonsul/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mr_Gonsul) 
