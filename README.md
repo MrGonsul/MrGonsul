@@ -1,12 +1,30 @@
 # 💫 About Me :
-I’m  Abdalmohimn AL Gonsul Software Engineer , interested in programming, software development, networking, and modern technologies. I enjoy learning how systems work, exploring new concepts, and improving my skills across different areas of technology. 
-<br><br>👋 Gamer & Tech Lover <br>💻 Exploring technology  <br>🎮 Playing games  <br>🚀 Learning something new every day <br>🔭 Goal ➽ CyC & Full-Stack<br><br>
 
+<div>
+  <img
+    align="right"
+    alt="Coding"
+    src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+    width="400"
+  >
+</div>
+
+I’m Abdalmohimn AL Gonsul Software Engineer, interested in programming, software development, networking, and modern technologies. I enjoy learning how systems work, exploring new concepts, and improving my skills across different areas of technology.
+
+<br><br>
+
+👋 Gamer & Tech Lover <br>
+💻 Exploring technology <br>
+🎮 Playing games <br>
+🚀 Learning something new every day <br>
+🔭 Goal ➽ CyC & Full-Stack
+
+<br clear="both">
 
 <p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=9BA2F7&amp;width=435&amp;lines=Welcome+To+My+World+!;Feel+Free+To+Watch+My+Profile;%F0%9F%A6%A6+z+Z+z+%F0%9F%92%A4" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=9BA2F7&amp;width=435&amp;lines=Welcome+To+My+World+!;Feel+Free+To+Watch+My+Profile;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%F0%9F%A6%A6+z+Z+z+%F0%9F%92%A4" alt="Typing SVG">
   </a>
 </p>
 
