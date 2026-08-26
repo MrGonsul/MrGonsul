@@ -1,3 +1,19 @@
+<div align="center">
+  <pre>
+     ███▄ ▄███▓ ██▀███       ▄████  ▒█████   ███▄    █   ██████  █    ██  ██▓    
+▓██▒▀█▀ ██▒▓██ ▒ ██▒    ██▒ ▀█▒▒██▒  ██▒ ██ ▀█   █ ▒██    ▒  ██  ▓██▒▓██▒    
+▓██    ▓██░▓██ ░▄█ ▒   ▒██░▄▄▄░▒██░  ██▒▓██  ▀█ ██▒░ ▓██▄   ▓██  ▒██░▒██░    
+▒██    ▒██ ▒██▀▀█▄     ░▓█  ██▓▒██   ██░▓██▒  ▐▌██▒  ▒   ██▒▓▓█  ░██░▒██░    
+▒██▒   ░██▒░██▓ ▒██▒   ░▒▓███▀▒░ ████▓▒░▒██░   ▓██░▒██████▒▒▒▒█████▓ ░██████▒
+░ ▒░   ░  ░░ ▒▓ ░▒▓░    ░▒   ▒ ░ ▒░▒░▒░ ░ ▒░   ▒ ▒ ▒ ▒▓▒ ▒ ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░
+░  ░      ░  ░▒ ░ ▒░     ░   ░   ░ ▒ ▒░ ░ ░░   ░ ▒░░ ░▒  ░ ░░░▒░ ░ ░ ░ ░ ▒  ░
+░      ░     ░░   ░    ░ ░   ░ ░ ░ ░ ▒     ░   ░ ░ ░  ░  ░   ░░░ ░ ░   ░ ░   
+       ░      ░              ░     ░ ░           ░       ░     ░         ░  ░
+                                                                             
+  </pre>
+</div>
+
+
 # 💫 About Me :
 
 <div>
@@ -129,6 +145,10 @@ I’m Abdalmohimn AL Gonsul Software Engineer, interested in programming, softwa
 ![](https://github-contributor-stats.vercel.app/api?username=MrGonsul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+<p align="center">
+  <img src="assets/banner.png" width="100%" />
+</p>
 
 <!-- Pacman -->
 <picture>
